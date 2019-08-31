@@ -1,1 +1,1 @@
-# OldSchoolStatsPlots
+# OldSchoolStatsPlots.jl
